@@ -26,11 +26,14 @@ This is a text-based version of the classic Tic Tac Toe game. It allows two play
 
 ## Technologies Used
 
-- [List the technologies or programming languages used in your project]
+- HTML
+- CSS
+- JavaScript
 
 ## Screenshots
 
-[Include screenshots or a gif of your game in action, if applicable]
+[![Tic Tac Toe](./deployed.png)](https://jofiel-nguyen.github.io/Tic-Tac-Toe/)
+
 
 ## Contributing
 
@@ -45,9 +48,10 @@ If you'd like to contribute to this project, please follow these steps:
 ## License
 
 This project is licensed under the [License Name] - see the [LICENSE.md](LICENSE.md) file for details.
-
 ## Acknowledgments
 
-- [Any acknowledgments or credits you want to give]
+- **Tic Tac Toe Game by Jophicone App Center**
 
-Feel free to customize the template according to your project specifics. Add sections or details that you think would be relevant for users and contributors.
+  Thank you for visiting! Feel free to play the Tic Tac Toe game on this page. However, please note that the code is the intellectual property of Jophicone App Center. You are welcome to enjoy the game here, but we kindly request that you do not copy or reproduce the code elsewhere without permission.
+
+
