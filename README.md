@@ -47,7 +47,7 @@ If you'd like to contribute to this project, please follow these steps:
 
 ## License
 
-This project is licensed under the [License Name] - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the [License Name] - see the [LICENSE.md](./LICENSE) file for details.
 ## Acknowledgments
 
 - **Tic Tac Toe Game by Jophicone App Center**
