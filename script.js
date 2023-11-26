@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', () => {
     resetButton.style.display = 'none'; // initially hide the reset button
     resetButton.addEventListener('click', resetGame);
 
-    let currentPlayer = 'X';
+    let currentPlayer = '✖️';
     let gameBoard = ['', '', '', '', '', '', '', '', ''];
     let gameActive = true;
 
@@ -27,7 +27,7 @@ document.addEventListener('DOMContentLoaded', () => {
         checkWinner();
 
         // Switch player
-        currentPlayer = currentPlayer === 'X' ? 'O' : 'X';
+        currentPlayer = currentPlayer === '✖️' ? '⭕' : '✖️';
     }
 
     // Update the visual representation of the board
@@ -82,7 +82,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // Reset the game
     function resetGame() {
         gameBoard = ['', '', '', '', '', '', '', '', ''];
-        currentPlayer = 'X';
+        currentPlayer = '✖️';
         updateBoard();
         gameActive = true;
         resetButton.style.display = 'none';
